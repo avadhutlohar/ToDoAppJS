@@ -4,7 +4,7 @@
 ![ToDoApp](https://img.shields.io/badge/ToDoApp-HTML%20CSS%20JS-orange)
 
 
-## Daily Goals App [Live Link]()
+## Daily Goals App [Live Link](https://dailygoalsapp.netlify.app/)
 
 -   During this project, I gained the following skills:
     -   I learned about LocalStorage in JS
